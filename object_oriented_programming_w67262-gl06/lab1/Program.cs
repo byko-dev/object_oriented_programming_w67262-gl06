@@ -13,9 +13,9 @@ class Program
         (new Zadanie1()).Process();
 
         (new Zadanie2()).Process();
-       
+
         (new Zadanie3()).Process();
-     
+
         (new Zadanie4()).Process();
 
         (new Zadanie5()).Process();
