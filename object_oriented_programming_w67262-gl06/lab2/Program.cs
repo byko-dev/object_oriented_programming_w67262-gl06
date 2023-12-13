@@ -8,7 +8,7 @@ namespace object_oriented_programming_w67262_gl06.lab2
 {
     internal class Program
     {
-        public static void Main(String[] args)
+        public static void Process(String[] args)
         {
             //Zadanie 1 
             Licz licz = new Licz(10);

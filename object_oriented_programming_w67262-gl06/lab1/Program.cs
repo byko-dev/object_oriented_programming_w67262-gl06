@@ -8,7 +8,7 @@ namespace object_oriented_programming_w67262_gl06.lab1;
 
 class Program
 {
-    public static void Main(string[] args)
+    public static void Process(string[] args)
     {
         (new Zadanie1()).Process();
 
