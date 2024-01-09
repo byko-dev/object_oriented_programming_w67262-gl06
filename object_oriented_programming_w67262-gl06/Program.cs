@@ -14,6 +14,9 @@ public partial class Program
         /*Lab 3 main process*/
         lab3.Program.Process(args);
         
+        /*Lab 4 main process*/
+        lab4.Program.Process(args);
+        
         /*Lab 5 main process*/
         lab5.Program.Process(args);
     }
